@@ -5,9 +5,9 @@ Use de referecia el video de upir <https://www.youtube.com/watch?v=o3PhC_VJdXo&t
 2)**CONECSIONES OLED**
 Conectamos la pantalla oled a un arduino nano la referencia de la pantalla oled:SSD1306 
 **OLED**     **ARDUINO NANO**
- +GND      GND
- +VCC      5V
- +SCL      A5
- +SDA      A4
+ -GND      GND
+ -VCC      5V
+ -SCL      A5
+ -SDA      A4
 
 
